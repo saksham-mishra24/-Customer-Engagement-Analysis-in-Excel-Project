@@ -1,6 +1,4 @@
-Here’s a polished and visually appealing version tailored specifically for a GitHub repository:
 
----
 
 # **📊 Descriptive Statistics Project**
 
@@ -68,24 +66,6 @@ Deepen your analysis by examining the distribution of engagement data.
 
 ---
 
-## **📂 Repository Structure**
-
-```
-📁 Engagement Analysis Project
-│
-├── 📂 Data
-│   └── Engagement project.xlsx
-│
-├── 📂 Notebooks
-│   └── Task1_Engagement_Analysis.ipynb
-│   └── Task2_Distribution_Analysis.ipynb
-│
-├── 📂 Visualizations
-│   └── Q4_2021_vs_Q4_2022_Insights.png
-│   └── Paid_vs_Free_Comparison.png
-│
-└── 📄 README.md
-```
 
 ---
 
@@ -99,8 +79,4 @@ Understanding engagement trends enables 365 to:
 
 Feel free to clone this repository, explore the data, and share your findings! 💻📘  
 
-💡 *Got ideas or questions? Let's collaborate!*  
 
----
-
-This version is highly engaging, with emojis and structure that highlight important details and guide visitors effectively. Let me know if you'd like further customization!
