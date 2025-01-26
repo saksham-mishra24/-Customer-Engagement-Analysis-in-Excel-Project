@@ -2,6 +2,9 @@
 
 # 📊 Customer Engagement Analysis 
 
+- ### Domain: Education Technology (EdTech) 
+
+- ### Function: Product Strategy / User Engagement
 
 ## **Project Overview**
 
